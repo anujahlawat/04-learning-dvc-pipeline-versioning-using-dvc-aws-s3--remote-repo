@@ -1,4 +1,4 @@
 [core]
     remote = dvcstore
 ['remote "dvcstore"']
-    url = s3://mlopsbucket0024
+    url = s3://mlops-learning-bucket0024
